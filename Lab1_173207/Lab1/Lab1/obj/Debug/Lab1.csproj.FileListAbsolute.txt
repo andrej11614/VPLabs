@@ -1,0 +1,7 @@
+D:\Users\andrej\VP Labs\Lab1_173207\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Users\andrej\VP Labs\Lab1_173207\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Users\andrej\VP Labs\Lab1_173207\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Users\andrej\VP Labs\Lab1_173207\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Users\andrej\VP Labs\Lab1_173207\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Users\andrej\VP Labs\Lab1_173207\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Users\andrej\VP Labs\Lab1_173207\Lab1\Lab1\obj\Debug\Lab1.pdb
